@@ -2,13 +2,13 @@
 
 Welcome to my personal portfolio website! I'm a **B.Tech 4th Year Student** and a **MERN Stack Developer**, passionate about crafting elegant and modern web applications.
 
-Live Preview 👉 [Click here to visit](https://portfolio-two-khaki-43.vercel.app/#)
+Live Preview 👉 [Click here to visit](https://portfolio-anshutanwars-projects.vercel.app/)
 
 ---
 
 ## 🖼️ Preview
 
-![Portfolio Preview](./preview.png)
+![Portfolio Preview](https://ik.imagekit.io/anshut/alpstech/Screenshot%202025-05-04%20214854.png?updatedAt=1746376519541)
 
 ---
 
