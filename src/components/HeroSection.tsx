@@ -92,7 +92,7 @@ const HeroSection = () => {
           </div>
         </div>
 
-        <div className="flex-1 w-full h-[450px] sm:h-[500px] overflow-hidden relative spline-wrapper scale-[1.2]">
+        <div className="flex-1 w-full h-[450px] sm:h-[500px] overflow-hidden relative spline-wrapper scale-[1.6]">
           <Spline className="spline-scene" scene="https://prod.spline.design/H7FfNKL1DHpfXSem/scene.splinecode" />
           <div className="absolute bottom-0 right-0 w-40 h-20 bg-white dark:bg-background z-10" />
         </div>
