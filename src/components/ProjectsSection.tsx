@@ -44,7 +44,7 @@ const ProjectsSection = () => {
       liveUrl: "https://staywise-d2rd.onrender.com/listings"
     },
     {
-      title: "UniMeet",
+      title: "BitBranch",
       description: "An advanced web-based communication platform designed to revolutionize virtual collaboration. Leveraging the MERN stack, Unimeet offers robust real-time video conferencing integrated with state-of-the-art features tailored for modern-day remote communication needs.",
       image: "https://shorturl.at/EuJK0",
       technologies: ["React", "Socket.io", "Node.js", "Express", "MongoDB"],
