@@ -46,7 +46,7 @@ const ProjectsSection = () => {
     {
       title: "BitBranch",
       description: "An advanced web-based communication platform designed to revolutionize virtual collaboration. Leveraging the MERN stack, Unimeet offers robust real-time video conferencing integrated with state-of-the-art features tailored for modern-day remote communication needs.",
-      image: "https://shorturl.at/EuJK0",
+      image: "https://ik.imagekit.io/anshut/New%20Folderbitbranch/Screenshot%202025-09-23%20at%201.04.16%E2%80%AFAM.png?updatedAt=1758570035410",
       technologies: ["React", "Socket.io", "Node.js", "Express", "MongoDB"],
       githubUrl: "hhttps://github.com/AnshuTanwar/BitBranch",
       liveUrl: "https://bit-branch.vercel.app/"
