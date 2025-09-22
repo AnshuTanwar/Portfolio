@@ -28,6 +28,14 @@ const ProjectsSection = () => {
 
   const projects = [
     {
+      title: "BitBranch",
+      description: "BitBranch is a web + CLI based version control platform that works like Git, but with smarter features. You can upload and manage code, generate AI-powered commit messages, and explore your repositories through an intuitive web interface. It also supports issue tracking, following projects, and more",
+      image: "https://ik.imagekit.io/anshut/New%20Folderbitbranch/Screenshot%202025-09-23%20at%201.04.16%E2%80%AFAM.png?updatedAt=1758570035410",
+      technologies: ["React", "Google Gemini API", "Node.js", "Express", "MongoDB"],
+      githubUrl: "hhttps://github.com/AnshuTanwar/BitBranch",
+      liveUrl: "https://bit-branch.vercel.app/"
+    },
+    {
       title: "AlpesTech",
       description: "AlpesTech is a MERN stack web application that enables students to enroll in courses, view enrollments and results, while admins manage courses and upload student results via a role-based system.",
       image: "https://ik.imagekit.io/anshut/alpstech/Screenshot%202025-04-09%20204035.png?updatedAt=1744211808005",
@@ -42,14 +50,6 @@ const ProjectsSection = () => {
       technologies: ["HTML", "Node.js", "MongoDB", "Express", "JWT"],
       githubUrl: "https://github.com/AnshuTanwar/StayWise",
       liveUrl: "https://staywise-d2rd.onrender.com/listings"
-    },
-    {
-      title: "BitBranch",
-      description: "An advanced web-based communication platform designed to revolutionize virtual collaboration. Leveraging the MERN stack, Unimeet offers robust real-time video conferencing integrated with state-of-the-art features tailored for modern-day remote communication needs.",
-      image: "https://ik.imagekit.io/anshut/New%20Folderbitbranch/Screenshot%202025-09-23%20at%201.04.16%E2%80%AFAM.png?updatedAt=1758570035410",
-      technologies: ["React", "Socket.io", "Node.js", "Express", "MongoDB"],
-      githubUrl: "hhttps://github.com/AnshuTanwar/BitBranch",
-      liveUrl: "https://bit-branch.vercel.app/"
     }
   ];
 
