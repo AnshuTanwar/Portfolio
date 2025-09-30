@@ -36,12 +36,12 @@ const ProjectsSection = () => {
       liveUrl: "https://bit-branch.vercel.app/"
     },
     {
-      title: "AlpesTech",
-      description: "AlpesTech is a MERN stack web application that enables students to enroll in courses, view enrollments and results, while admins manage courses and upload student results via a role-based system.",
-      image: "https://ik.imagekit.io/anshut/alpstech/Screenshot%202025-04-09%20204035.png?updatedAt=1744211808005",
-      technologies: ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Tailwind CSS"],
-      githubUrl: "https://github.com/AnshuTanwar/AlpesTech",
-      liveUrl: "https://alpes-tech.vercel.app/"
+      title: "Recruitify",
+      description: "Recruitify is a smart job portal designed for both recruiters and candidates. It features an ATS-powered application sorting system that ranks resumes based on relevance, making hiring faster and more efficient. Candidates get an ATS improvement chatbot that guides them to optimize their resumes for better visibility. With separate dashboards for recruiters and candidates, Recruitify ensures a seamless, tailored experience for both sides of the hiring process.",
+      image: "https://ibb.co/7tr1kxdt",
+      technologies: ["React", "Node.js", "Express", "MongoDB", "JavaScript", "Tailwind CSS"],
+      githubUrl: "https://github.com/AnshuTanwar/Recruitify",
+      liveUrl: "https://main.d2vm8xyjprv7ng.amplifyapp.com/"
     },
     {
       title: "StayWise",
@@ -50,7 +50,15 @@ const ProjectsSection = () => {
       technologies: ["HTML", "Node.js", "MongoDB", "Express", "JWT"],
       githubUrl: "https://github.com/AnshuTanwar/StayWise",
       liveUrl: "https://staywise-d2rd.onrender.com/listings"
-    }
+    },
+    {
+      title: "AlpesTech",
+      description: "AlpesTech is a MERN stack web application that enables students to enroll in courses, view enrollments and results, while admins manage courses and upload student results via a role-based system.",
+      image: "https://ik.imagekit.io/anshut/alpstech/Screenshot%202025-04-09%20204035.png?updatedAt=1744211808005",
+      technologies: ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Tailwind CSS"],
+      githubUrl: "https://github.com/AnshuTanwar/AlpesTech",
+      liveUrl: "https://alpes-tech.vercel.app/"
+    },
   ];
 
   return (
