@@ -38,7 +38,7 @@ const ProjectsSection = () => {
     {
       title: "Recruitify",
       description: "Recruitify is a smart job portal designed for both recruiters and candidates. It features an ATS-powered application sorting system that ranks resumes based on relevance, making hiring faster and more efficient. Candidates get an ATS improvement chatbot that guides them to optimize their resumes for better visibility. With separate dashboards for recruiters and candidates, Recruitify ensures a seamless, tailored experience for both sides of the hiring process.",
-      image: "https://ibb.co/7tr1kxdt",
+      image: "https://ik.imagekit.io/irwz1s3xj/Screenshot%202025-09-30%20at%2011.13.41%E2%80%AFPM.png?updatedAt=1759254459852",
       technologies: ["React", "Node.js", "Express", "MongoDB", "JavaScript", "Tailwind CSS"],
       githubUrl: "https://github.com/AnshuTanwar/Recruitify",
       liveUrl: "https://main.d2vm8xyjprv7ng.amplifyapp.com/"
