@@ -97,7 +97,7 @@ const Header = () => {
               variants={navItemVariants}
             >
               <Button asChild size="sm" className="rounded-full hover:scale-105 transition-transform">
-                <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1CUungRyNO-WIhV-Dbal_hfmP4KBY27X2/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   Resume
                 </a>
               </Button>
